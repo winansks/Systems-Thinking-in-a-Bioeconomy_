@@ -6,7 +6,7 @@ Key principles: Interconnectedness, feedback loops, non-linearity, emergence, an
 
 Illustration of Interconnectedness: The diagram below shows a Hybrid Energy System (HES) as a hub connecting energy, water, transportation, waste, food, health, and social systems through bidirectional flows of energy, resources, and control signals. This interconnectedness highlights how the HES supports resilience by enabling adaptive responses and buffering disruptions across the broader network.
 
-<img width="549" height="332" alt="image" src="https://github.com/user-attachments/assets/5d249a53-c49a-4076-8624-13b389d06f70" />
+<img width="546" height="339" alt="image" src="https://github.com/user-attachments/assets/6a0400be-ffaa-4a03-9075-bb5a172a9411" />
 
 Image reference: DOI: 10.3390/en14227499
 
