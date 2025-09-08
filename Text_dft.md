@@ -14,15 +14,16 @@ By the end of this chapter, students will be able to:
 3. Why is systems thinking important for understanding challenges in the bioeconomy?
 4. How do feedback loops influence the stability or change within a system?
 5. In what ways do natural systems differ from human-designed systems, and where do they overlap?
-6. What examples of interconnectedness can you identify among energy, water, food, waste, and health systems?
-7. How might applying systems thinking change the way we define or solve problems compared to a reductionist approach?
 
 **1.1 Systems, Systems Thinking, and the Bioeconomy: What, Why, and How?**
 
 Systems thinking is a way of understanding complex problems by looking at the whole system, not just its parts. A system can be described through three core features:
-Elements – the components that make up the system. Example (forest ecosystem): trees, soil, microorganisms, wildlife, and water.
-Interconnections – the relationships and flows between elements. Example (forest ecosystem): nutrient cycling, predator-prey relationships, and water exchange between soil and atmosphere.
-Purpose – the overall goal or function that drives the system’s behavior. Example (forest ecosystem): sustaining biodiversity, sequestering carbon, and maintaining ecological balance.
+
+**Elements** – the components that make up the system. Example (forest ecosystem): trees, soil, microorganisms, wildlife, and water.
+
+**Interconnections** – the relationships and flows between elements. Example (forest ecosystem): nutrient cycling, predator-prey relationships, and water exchange between soil and atmosphere.
+
+**Purpose** – the overall goal or function that drives the system’s behavior. Example (forest ecosystem): sustaining biodiversity, sequestering carbon, and maintaining ecological balance.
 
 Taken together, these features shape how a system behaves. Importantly, no single element determines the outcome; it is the interaction among elements and the alignment with purpose that generate the system’s overall patterns.
 
