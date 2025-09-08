@@ -27,15 +27,18 @@ Systems thinking is a way of understanding complex problems by looking at the wh
 
 Taken together, these features shape how a system behaves. Importantly, no single element determines the outcome; it is the interaction among elements and the alignment with purpose that generate the system’s overall patterns.
 
-When applying this perspective to a bioeconomy, systems thinking helps us ask:
+**When applying this perspective to a bioeconomy, systems thinking helps us ask:**
 1. What elements (e.g., energy technologies, agricultural practices, waste management processes) make up the system?
 2. How are they interconnected through flows of resources, energy, capital, and information?
 3. What purpose or function is guiding the system (e.g., maximizing production, minimizing waste, maintaining resilience)?
 
 This approach is valuable because the bioeconomy spans multiple domains—energy, food, water, waste, and health—that are deeply interdependent. By examining them as interconnected systems rather than isolated sectors, we gain insight into:
-1. Trade-offs (e.g., using agricultural land for food vs. biofuels).
-2. Feedback loops (e.g., how soil health influences crop yields, which affect market prices, which then shape farming practices).
-3. Emergent outcomes (e.g., unintended consequences of policies, technologies, or consumer behavior).
+
+**Trade-offs** (e.g., using agricultural land for food vs. biofuels).
+
+**Feedback loops** (e.g., how soil health influences crop yields, which affect market prices, which then shape farming practices).
+
+**Emergent outcomes** (e.g., unintended consequences of policies, technologies, or consumer behavior).
 
 Ultimately, systems thinking equips us to better understand why interventions succeed or fail in the bioeconomy. Instead of focusing only on parts of the problem—like increasing crop yield or reducing emissions—we can analyze how solutions interact with the wider system, sometimes amplifying benefits and other times creating new challenges.
 
@@ -44,11 +47,16 @@ Ultimately, systems thinking equips us to better understand why interventions su
 Systems thinking is guided by several key principles that help us see beyond individual parts and understand how whole systems behave. These principles are especially useful in the context of the bioeconomy, where energy, food, water, waste, health, and social systems are deeply interconnected.
 
 **Key Principles (with Bioeconomy Examples)**
-1. Interconnectedness – All elements of a system are linked. Example: Water availability affects crop yields, which influence food prices, which in turn shape dietary health and economic stability.
-2. Feedback loops – Cycles of cause and effect that either reinforce (amplify) or balance (stabilize) system behavior. Example: Soil degradation reduces crop productivity, which leads to more fertilizer use, further degrading the soil in a reinforcing loop. Conversely, regenerative farming improves soil health and creates a balancing loop of resilience.
-3. Non-linearity – Small actions can lead to large, unexpected outcomes; effects are not always proportional to causes. Example: A small pest outbreak can spread rapidly through monoculture crops, triggering global food shortages and price spikes.
-4. Emergence – New patterns or properties arise from interactions of elements that cannot be understood by studying parts in isolation. Example: When renewable energy, storage, and smart grids interact, they enable a resilient energy system that is more adaptive than any component on its own.
-5. Holistic thinking – The system must be understood as a whole; it is more than the sum of its parts. Example: Waste from one sector (e.g., food processing) can become input for another (e.g., bioenergy), but only if we view the system holistically rather than as separate industries.
+
+**Interconnectedness** – All elements of a system are linked. Example: Water availability affects crop yields, which influence food prices, which in turn shape dietary health and economic stability.
+
+**Feedback loops** – Cycles of cause and effect that either reinforce (amplify) or balance (stabilize) system behavior. Example: Soil degradation reduces crop productivity, which leads to more fertilizer use, further degrading the soil in a reinforcing loop. Conversely, regenerative farming improves soil health and creates a balancing loop of resilience.
+
+**Non-linearity** – Small actions can lead to large, unexpected outcomes; effects are not always proportional to causes. Example: A small pest outbreak can spread rapidly through monoculture crops, triggering global food shortages and price spikes.
+
+**Emergence** – New patterns or properties arise from interactions of elements that cannot be understood by studying parts in isolation. Example: When renewable energy, storage, and smart grids interact, they enable a resilient energy system that is more adaptive than any component on its own.
+
+**Holistic thinking** – The system must be understood as a whole; it is more than the sum of its parts. Example: Waste from one sector (e.g., food processing) can become input for another (e.g., bioenergy), but only if we view the system holistically rather than as separate industries.
 
 **Illustration of Interconnectedness**
 
@@ -157,20 +165,24 @@ Interconnections among these elements determine how silvicultural practices shap
 **Bioeconomy Connection**
 
 Silvicultural systems don’t just grow trees—they feed the larger bioeconomy. Timber from managed forests supports construction and furniture industries, biomass can be converted into bioenergy, and sustainably managed forests contribute to carbon markets by storing carbon. Understanding these links helps connect forest management decisions to economic, environmental, and social outcomes.
-<link M1. Ex2>
 
-**2.2 Urban System & Bioeconomy Connection**
+[link M1. Ex2](https://canvas.vt.edu/courses/219132/assignments/2524895)
+
+**2.2 Urban Forest System**
 
 Urban forests are living systems made up of trees, shrubs, grasses, people, wildlife, and urban infrastructure. These elements interact to provide system-level functions like improving air quality, capturing CO₂, regulating temperature, managing stormwater, and creating spaces for recreation and aesthetics. Just like managed silvicultural systems feed the larger bioeconomy (timber, bioenergy, carbon markets), urban forests provide ecosystem services that support cities’ environmental health, energy efficiency, and social well-being. Understanding these interactions helps connect ecological processes, human needs, and urban planning decisions.
 
 Urban forests are composed of multiple components that each play important roles. Trees provide shade, capture carbon dioxide, and improve air quality. Shrubs and grasses help reduce soil erosion, provide habitat, and enhance the aesthetic value of urban spaces. Wildlife contributes by supporting biodiversity, pollination, and seed dispersal. People interact with the forest through maintenance, recreation, and management decisions. Urban infrastructure, such as roads, buildings, and storm drains, helps manage stormwater and influences local microclimates.
 
-These elements interact in complex ways to produce system-level functions. Trees and shrubs regulate temperature and improve air quality, which benefits humans living in the city. Wildlife depends on vegetation for habitat, while humans support wildlife through planting and maintenance efforts. Urban infrastructure can both support and constrain tree growth; for example, storm drains reduce flooding, but compacted soil limits root expansion. Together, these interactions create ecosystem services such as recreation, carbon capture, and urban cooling, illustrating how urban forests function as dynamic systems.
+These elements interact in complex ways to produce system-level functions. Trees and shrubs regulate temperature and improve air quality, which benefits humans living in the city. Wildlife depends on vegetation for habitat, while humans support wildlife through planting and maintenance efforts. Urban infrastructure can both support and constrain tree growth; for example, storm drains reduce flooding, but compacted soil limits root expansion. 
+
+Together, these interactions create ecosystem services such as recreation, carbon capture, and urban cooling, illustrating how urban forests function as dynamic systems.
 
 **Bioeconomy Connection**
 
 Urban forests, like rural silvicultural systems, contribute to the larger bioeconomy by providing resources and services, including timber, biomass for energy, carbon sequestration, and improved urban livability. Understanding the elements and their interconnections helps students see how ecological and social systems work together to shape sustainable cities.
-<link M1. HW1>
+
+[link M1. HW1](https://canvas.vt.edu/courses/219132/assignments/2526899)
 
 **Quiz question**
 
