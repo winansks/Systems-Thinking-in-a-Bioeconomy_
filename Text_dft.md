@@ -272,7 +272,7 @@ Agriculture accounts for 70 percent of global freshwater withdrawals, with irrig
 
 **Energy for Agriculture**
 
-Roughly 30 percent of global energy use is linked to food production and supply chains. Energy powers water pumping, mechanization, fertilizer production, processing, storage, and transport. This creates vulnerabilities to fluctuating fuel and electricity prices while adding to greenhouse gas emissions (EPA, 2025).
+Roughly 20-30 percent of global energy use is linked to food production and supply chains. Energy powers water pumping, mechanization, fertilizer production, processing, storage, and transport. This creates vulnerabilities to fluctuating fuel and electricity prices while adding to greenhouse gas emissions (EPA, 2025).
 
 **Food–Energy Trade-offs**
 
