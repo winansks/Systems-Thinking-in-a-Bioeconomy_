@@ -428,3 +428,142 @@ Together, these guidelines turn systems thinking from a set of diagrams into a w
 **Consideration:**
 
 Recognizing archetypes and constraints invites us to move beyond blame or quick fixes. It helps us see structure, not just events - revealing where small, thoughtful changes can create lasting impact and greater system viability.
+
+## Module 5. Waste
+
+**What Is the Tragedy of the Commons?**
+ 
+Short video (4:57 min): The Tragedy of the Commons Explained: https://youtu.be/CxC161GvMPc?si=pTVN0M_fjFYqhSy7 
+
+The Tragedy of the Commons describes a situation in which individuals who share access to a public resource (a “common”) act in their own self-interest-ultimately depleting or degrading that shared resource.
+This idea was first conceptualized in 1833 by British writer William Forster Lloyd, and later popularized in 1968 by ecologist GARRETT HARDIN (1915-2003) in Science Magazine.
+Hardin’s essay emphasized how people’s tendency to make decisions for short-term personal benefit can lead to long-term collective harm.
+
+**Learning Objectives** 
+
+1. Explain the concept of the Tragedy of the Commons and its relevance to modern sustainability challenges.
+2. Analyze how the coffee, fisheries, and fast fashion industries illustrate commons dilemmas and resource overuse.
+3. Apply systems thinking tools—information flows, feedback loops, and leverage points—to explain system behaviors and outcomes.
+4. Compare Hardin’s view of inevitable depletion with Ostrom’s cooperative principles for managing shared resources.
+5. Reflect on personal and collective behaviors that contribute to or mitigate commons problems.
+
+**Key Questions** 
+
+1. What causes individuals to act in ways that deplete shared resources, and how can systems be redesigned to prevent it?
+2. How do information flows and feedback loops influence public perception and policy in commons-based systems?
+3. In what ways can the Triple Bottom Line guide more sustainable decisions in industries like coffee, fishing, and fashion?
+4. How do Ostrom’s principles demonstrate that collaboration and trust can replace regulation or competition?
+5. Where do you see examples of commons dilemmas in your own community or daily life?
+
+**Real-World Examples and Solutions**
+
+**EXAMPLE 1: Coffee Consumption l Harvard Business School (Spiliakos 2019)**
+
+While a single cup of coffee seems harmless, large-scale coffee consumption illustrates the Tragedy of the Commons in action.
+ 
+•	73% of consumers report drinking coffee daily, and another 4% drink it weekly-a level of demand that contributes to major environmental strain. (REF.)
+
+•	Coffee plants, once a naturally occurring and globally shared resource, are now overexploited, leading to habitat degradation and loss of biodiversity. (REF.)
+
+•	Initiatives like the NESCAFÉ Plan 2030 aim to support farmers transitioning to regenerative agriculture practices.
+
+**NESCAFÉ Plan 2030**
+ 
+Supporting farmers in transitioning to regenerative farming practices [REF.]
+
+**Addressing the Issue**
+
+Sustainability in the coffee industry requires collaboration across agriculture, engineering, design, and supply chains.
+
+**Key strategies include:**
+
+•	Responsible sourcing and fair trade partnerships
+
+•	Eco-friendly farming and waste reduction
+
+•	Transparent Corporate Social Responsibility (CSR) and Environmental, Social, and Governance (ESG) reporting
+
+At the heart of these efforts lies the Triple Bottom Line (TBL)- balancing People, Planet, and Profit.  
+
+•	CSR initiatives often include ethical sourcing, local community investment, and sustainable agriculture programs.
+
+•	ESG reporting provides transparent metrics for environmental and social accountability, supporting long-term corporate responsibility.
+
+**EXAMPLE 2: Overfishing l Harvard Business School (Spiliakos 2019)**
+ 
+[REF.]
+As global population and food demand rises, overfishing threatens marine ecosystems and livelihoods.
+•	About 34% of the world’s fish stocks are overfished, and another 60% are maximally sustainably fished.[REF.]
+•	Without effective management, overfishing can lead to species collapse and long-term food insecurity.
+ 
+[REF.]
+
+**The Role of Information Flow**
+ 
+Clear, accurate language helps improve public understanding and supports better fisheries management.
+
+•	In the past, terms like “fully exploited” were misinterpreted as negative, though they originally meant sustainably managed.
+
+•	Misunderstandings led to headlines claiming “90% of fisheries are over- or fully exploited,” even though many were healthy and well-managed.
+
+•	To clarify, the FAO revised its terminology:
+
+      Fully exploited -> Maximally sustainably fished
+      Over-exploited -> Overfished
+      Under-exploited -> Underfished
+
+This example highlights how information flows -the clarity and accuracy of shared data-shape public perception and policy, ultimately influencing system health.
+
+**Reflection Questions** 
+
+1.How do these systems concepts apply to the scenarios above?
+
+2.How do systems thinking and the Triple Bottom Line (TBL) framework help analyze and redesign the coffee and fisheries systems discussed above?
+
+**Considerations**
+
+•	How might feedback loops or leverage points be used to shift behaviors toward sustainability?
+
+•	In what ways can social (People), environmental (Planet), and economic (Profit) dimensions be balanced?
+
+•	What trade-offs or synergies become visible when you take a systems view?
+
+**A Different Worldview: Elinor Ostrom**
+
+Unlike Hardin’s pessimistic view, Elinor Ostrom (1933-2012), a political scientist and Nobel Laureate, demonstrated that communities can effectively manage shared resources through cooperation, trust, and adaptive rules.
+
+**Ostrom’s 8 Principles for Managing Shared Resources**
+
+[1] Clearly define the group and resource: Everyone should know who can use the resource and what it includes.
+
+[2] Match rules to local needs and conditions: Rules should fit the specific place and situation.
+
+[3] Allow everyone affected to help make the rules: People who use the resource should have a say in managing it.
+
+[4] Monitor usage: Keep an eye on how the resource is used to make sure rules are followed.
+
+[5] Use fair and gradual punishments: Consequences for breaking rules should be reasonable and increase only if needed.
+
+[6] Make conflict resolution easy: Disagreements should be solved quickly and affordably.
+
+[7] Let communities organize themselves: People should be allowed to create and enforce their own rules.
+
+[8] Work together at different levels: Have local, regional, and national groups cooperate when needed.
+
+**EXAMPLE 3: Fast Fashion l Harvard Business School (Spiliakos 2019)**
+
+The fast fashion industry is another modern commons dilemma. Overproduction and constant trend turnover drive waste, pollution, and labor exploitation.
+
+•	New social media trends encourage rapid consumption and disposal of clothing.
+
+•	Millions of discarded garments end up in landfills, releasing microplastics and dyes that harm ecosystems.
+
+•	Short video (3:03 min): Fast Fashion & Waste System
+ 
+[REF.]
+
+**Additional Resources**
+
+[1] Professor Reinhardt discuss climate change and the tragedy of the commons on The Parlor Room podcast.
+[2] How to Be a Purpose-Driven, Global Business Professional [Free Book]: DOWNLOAD NOW
+
