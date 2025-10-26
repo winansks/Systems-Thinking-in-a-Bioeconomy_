@@ -569,8 +569,6 @@ The fast fashion industry is another modern commons dilemma. Overproduction and 
 
 # Chapter 6: U.S. Bioeconomy: A Systems Perspective
 
-**A chapter-wise synthesis and policy overview**
-
 **Introduction — The Bioeconomy as a Living System**
 
 The bioeconomy represents the portion of the economy derived from biological resources — plants, microorganisms, and renewable biomass — transformed into products, services, and processes.
