@@ -573,7 +573,7 @@ The fast fashion industry is another modern commons dilemma. Overproduction and 
 
 The bioeconomy represents the portion of the economy derived from biological resources — plants, microorganisms, and renewable biomass — transformed into products, services, and processes.
 
-From a systems view, the bioeconomy is not a single industry but an adaptive, interdependent system (For example, see Figure 5 from Pashakolaie et al. 2025). DOI: 10.1016/j.biteb.2025.102125 
+From a systems view, the bioeconomy is not a single industry but an adaptive, interdependent system (For example, see Figure 5 below from Pashakolaie et al. 2025). DOI: 10.1016/j.biteb.2025.102125 
 
 **Stocks and flows:** renewable biomass flows through production, conversion, and consumption networks.
 
@@ -587,7 +587,9 @@ Framed this way, the bioeconomy is both a technological system (driven by biotec
 
 **The U.S. Bioeconomy as a Complex Adaptive System**
 
-The U.S. bioeconomy generates over 5% of national GDP through multiple interacting domains, including agricultural, biomedical, bioindustrial, and enabling technology sectors. As a complex adaptive system, it exhibits emergent properties such as innovation, resilience, and national competitiveness that arise from the dynamic interactions among research institutions, industries, policies, and markets. However, delays and unintended consequences often emerge when regulatory frameworks and policies fail to keep pace with rapid technological change. A narrow-scope definition of the bioeconomy captures the innovative, adaptable aspects of the system (reinforcing feedback loops), while a broad definition includes mature or legacy sectors that stabilize the system (balancing loops). Maintaining equilibrium between these perspectives helps prevent systemic blind spots and supports both innovation and stability across the bioeconomy.
+The U.S. bioeconomy generates over 5% of national GDP through multiple interacting domains, including agricultural, biomedical, bioindustrial, and enabling technology sectors (World Economy Insights, 2025). As a complex adaptive system, it exhibits emergent properties such as innovation, resilience, and national competitiveness that arise from the dynamic interactions among research institutions, industries, policies, and markets. However, delays and unintended consequences often emerge when regulatory frameworks and policies fail to keep pace with rapid technological change. 
+
+**CRITICAL POINT to CONSIDER:** A narrow-scope definition of the bioeconomy captures the innovative, adaptable aspects of the system (reinforcing feedback loops), while a broad definition includes mature or legacy sectors that stabilize the system (balancing loops). Maintaining equilibrium between these perspectives helps prevent systemic blind spots and supports both innovation and stability across the bioeconomy.
 
 **Federal Policy as System Governance**
 
@@ -595,11 +597,11 @@ Federal policy functions as the regulatory control loop that maintains coherence
 
 **System Leverage Points for the U.S. Bioeconomy**
 
-Within the U.S. bioeconomy, several strategic leverage points can help steer the system toward greater resilience and sustainability. Developing a national strategy that aligns purpose across interdependent agencies could establish coherence through a centralized coordination office connecting OSTP, DOE, USDA, and NIH. Increasing R&D investment strengthens the system’s learning feedbacks by supporting cross-disciplinary biofoundries and research platforms. Building regional clusters enhances decentralized adaptation by fostering rural bio-innovation hubs. Expanding market creation mechanisms, such as the USDA BioPreferred Program, reinforces feedback between producers and consumers. Investing in workforce development builds adaptive human capital through multidisciplinary STEM pathways, while public trust can be bolstered through transparency, ethical engagement, and communication. On a global scale, international collaboration reduces fragmentation by harmonizing standards and governance structures. Finally, circular economy integration closes material loops by incentivizing waste valorization and bioproduct reuse. In alignment with Donella Meadows’ systems framework, the highest leverage occurs at the level of paradigm and purpose—shifting how society defines and values the transition toward a bio-based future.
+Within the U.S. bioeconomy, several strategic leverage points can help steer the system toward greater resilience and sustainability. Developing a national strategy that aligns purpose across interdependent agencies could establish coherence through a **centralized coordination** office connecting OSTP, DOE, USDA, and NIH. Increasing R&D investment strengthens the system’s learning feedbacks by supporting cross-disciplinary biofoundries and research platforms. Building regional clusters enhances **decentralized adaptation** by fostering rural bio-innovation hubs. Expanding market creation mechanisms, such as the USDA BioPreferred Program, reinforces feedback between producers and consumers. Investing in workforce development builds adaptive human capital through multidisciplinary STEM pathways, while public trust can be bolstered through transparency, ethical engagement, and communication. On a global scale, international collaboration reduces fragmentation by harmonizing standards and governance structures. Finally, circular economy integration closes material loops by incentivizing waste valorization and bioproduct reuse. In alignment with Donella Meadows’ systems framework, the highest leverage occurs at the level of paradigm and purpose—shifting how society defines and values the transition toward a bio-based future.
 
 **Feedbacks Across Global Systems**
 
-The global bioeconomy operates as a networked system of systems, in which nations play interconnected but differentiated roles. China’s bioeconomy is driven by a strong top-down control loop emphasizing rapid scaling and state-led investment. The European Union pursues a balanced socio-ecological model, integrating circularity and sustainability through policy feedback. Germany exemplifies feedback-based innovation governance that tightly aligns research and industrial development. Japan integrates biotechnology with digital and data systems, forming a cyber-biological feedback network. Within this global framework, the United States must navigate adaptive competition by strengthening internal coherence and feedback responsiveness to sustain both resilience and leadership in the evolving international bioeconomy.
+The global bioeconomy operates as a networked system of systems, in which nations play interconnected but **differentiated roles.** China’s bioeconomy is driven by a strong top-down control loop emphasizing rapid scaling and state-led investment. The European Union pursues a balanced socio-ecological model, integrating circularity and sustainability through policy feedback. Germany exemplifies feedback-based innovation governance that tightly aligns research and industrial development. Japan integrates biotechnology with digital and data systems, forming a cyber-biological feedback network. Within this global framework, the United States must navigate adaptive competition by strengthening internal coherence and feedback responsiveness to sustain both resilience and leadership in the evolving international bioeconomy.
 
 **Sustainability and the Circular Bioeconomy**
 
@@ -611,22 +613,21 @@ As with all complex adaptive systems, the bioeconomy faces both vulnerabilities 
 
 **Toward a Systems-Based U.S. Bioeconomy Strategy**
 
-A resilient and adaptive U.S. bioeconomy requires governance and design rooted in systems thinking. Achieving this entails whole-of-government integration, where cybernetic models such as Beer’s Viable System Model align functions across agencies to maintain coherence and adaptability. Policymakers should adopt feedback-based metrics that move beyond GDP to measure system health through indicators like carbon reduction, biodiversity, and resilience. Encouraging distributed intelligence empowers regional innovation nodes that learn and adapt to local conditions. Promoting cross-domain literacy will prepare a workforce fluent in biological, technological, and systemic dimensions of sustainability. Finally, ethical governance must serve as a stabilizing control parameter—embedding precaution, transparency, and social equity into all levels of decision-making. Viewed holistically, the bioeconomy is a living, evolving system whose long-term viability depends on aligning technological progress with ecological and social regeneration.
+A resilient and adaptive U.S. bioeconomy requires governance and design rooted in systems thinking. Achieving this entails whole-of-government integration, where cybernetic models such as **Beer’s Viable System Model** align functions across agencies to maintain coherence and adaptability. Policymakers should adopt feedback-based metrics that move beyond GDP to measure system health through indicators like carbon reduction, biodiversity, and resilience. Encouraging distributed intelligence empowers regional innovation nodes that learn and adapt to local conditions. Promoting cross-domain literacy will prepare a workforce fluent in biological, technological, and systemic dimensions of sustainability. Finally, ethical governance must serve as a stabilizing control parameter—embedding precaution, transparency, and social equity into all levels of decision-making. Viewed holistically, the bioeconomy is a living, evolving system whose long-term viability depends on aligning technological progress with ecological and social regeneration.
 
 **Reflection Questions**
 
 1. How do systems concepts—such as feedback loops, interconnections, and system boundaries—apply to the bioeconomy scenarios discussed above?
+   
+2. How might feedback loops or leverage points be used to shift behaviors, policies, or technologies toward more sustainable
+   outcomes?
+   
+3. In what ways can systems thinking and the Triple Bottom Line (TBL) framework be used together to analyze and redesign bio-based systems (e.g., agriculture, energy, or manufacturing)?
 
-2. In what ways can systems thinking and the Triple Bottom Line (TBL) framework be used together to analyze and redesign bio-based systems (e.g., agriculture, energy, or manufacturing)?
+4. In what ways can the social (People), environmental (Planet), and economic (Profit) dimensions of the bioeconomy be balanced or reinforced?
 
-**Considerations**
+5. What trade-offs or synergies become visible when you take a systems view of bio-based innovation, production, and consumption?
 
-1. How might feedback loops or leverage points be used to shift behaviors, policies, or technologies toward more sustainable outcomes?
+6. How can identifying delays, unintended consequences, or structural bottlenecks help improve decision-making in complex bioeconomic systems?
 
-2. In what ways can the social (People), environmental (Planet), and economic (Profit) dimensions of the bioeconomy be balanced or reinforced?
-
-3. What trade-offs or synergies become visible when you take a systems view of bio-based innovation, production, and consumption?
-
-4. How can identifying delays, unintended consequences, or structural bottlenecks help improve decision-making in complex bioeconomic systems?
-
-5. Where might paradigm shifts—rethinking the purpose or underlying values of the system—offer the highest leverage for long-term sustainability?
+7. Where might paradigm shifts—rethinking the purpose or underlying values of the system—offer the highest leverage for long-term sustainability?
