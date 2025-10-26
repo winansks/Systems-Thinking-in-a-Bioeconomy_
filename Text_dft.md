@@ -589,7 +589,7 @@ Framed this way, the bioeconomy is both a technological system (driven by biotec
 
 The U.S. bioeconomy generates over 5% of national GDP through multiple interacting domains, including agricultural, biomedical, bioindustrial, and enabling technology sectors (World Economy Insights, 2025). As a complex adaptive system, it exhibits emergent properties such as innovation, resilience, and national competitiveness that arise from the dynamic interactions among research institutions, industries, policies, and markets. However, delays and unintended consequences often emerge when regulatory frameworks and policies fail to keep pace with rapid technological change. 
 
-**CRITICAL POINT to CONSIDER:** A narrow-scope definition of the bioeconomy captures the innovative, adaptable aspects of the system (reinforcing feedback loops), while a broad definition includes mature or legacy sectors that stabilize the system (balancing loops). Maintaining equilibrium between these perspectives helps prevent systemic blind spots and supports both innovation and stability across the bioeconomy.
+**CRITICAL POINTS to CONSIDER:** A narrow-scope definition of the bioeconomy captures the innovative, adaptable aspects of the system (reinforcing feedback loops), while a broad definition includes mature or legacy sectors that stabilize the system (balancing loops). Maintaining equilibrium between these perspectives helps prevent systemic blind spots and supports both innovation and stability across the bioeconomy.
 
 **Federal Policy as System Governance**
 
