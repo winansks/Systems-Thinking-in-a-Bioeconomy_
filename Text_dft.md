@@ -573,13 +573,15 @@ The fast fashion industry is another modern commons dilemma. Overproduction and 
 
 The bioeconomy represents the portion of the economy derived from biological resources — plants, microorganisms, and renewable biomass — transformed into products, services, and processes.
 
-From a systems view, the bioeconomy is not a single industry but an adaptive, interdependent system:
+From a systems view, the bioeconomy is not a single industry but an adaptive, interdependent system (For example, see Figure 5 from Pashakolaie et al. 2025). DOI: 10.1016/j.biteb.2025.102125 
 
 **Stocks and flows:** renewable biomass flows through production, conversion, and consumption networks.
 
 **Feedback loops:** R&D investments, policy incentives, and market adoption reinforce innovation cycles.
 
 **Boundaries and hierarchies:** spans local ecosystems to global supply chains, nested within social, economic, and ecological systems.
+
+<img width="725" height="385" alt="image" src="https://github.com/user-attachments/assets/7cb80bc9-cadc-4454-a43c-b942fb17f6fd" />
 
 Framed this way, the bioeconomy is both a technological system (driven by biotechnology) and a socio-ecological system (shaped by governance, ethics, and behavior).
 
