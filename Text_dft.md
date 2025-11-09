@@ -636,8 +636,8 @@ A resilient and adaptive U.S. bioeconomy requires governance and design rooted i
 
 This chapter introduces the foundational concepts of Lean Manufacturing—a system of continuous improvement aimed at increasing value, reducing waste, and optimizing processes. While its origins lie in manufacturing, Lean Thinking has become a guiding philosophy across sectors, including sustainability, biomaterials, and circular systems. Students are encouraged to draw parallels between Lean and Systems Thinking, noting how both approaches emphasize interconnections, feedback, and long-term improvement.
 
-**Learning Objectives
-**
+**Learning Objectives**
+
 By the end of this chapter, students will be able to:
 
 •	Define Lean Manufacturing and explain its purpose in modern industry.
@@ -650,7 +650,7 @@ By the end of this chapter, students will be able to:
 
 •	Reflect on how Lean relates to systems thinking within the bioeconomy.
 
-*Key Questions*
+**Key Questions**
 
 1. What is Lean Manufacturing, and why does it matter?
 
@@ -662,7 +662,7 @@ By the end of this chapter, students will be able to:
 
 5. How does Lean Thinking contribute to more sustainable, resilient systems?
 
-*7.1 What is Lean Manufacturing?*
+**7.1 What is Lean Manufacturing?**
 
 Lean Manufacturing is a stepwise method for continuous improvement focused on maximizing value and minimizing waste.
 
@@ -678,7 +678,7 @@ At its core, Lean seeks to:
 
 In short, Lean is both a methodology and a mindset—a way of thinking about how to do more with less while achieving better outcomes for customers, workers, and the environment.
 
-*7.2 Value and Non-Value-Added Activities*
+**7.2 Value and Non-Value-Added Activities**
 
 Value (Definition)
 
@@ -692,7 +692,7 @@ This customer-centric view forces organizations to look critically at their proc
 
 3. If not, why are we doing it?
 
-#Example:#
+**Example:**
 
 *Value-added: Finishing a product surface to meet customer specifications.*
 
@@ -706,11 +706,11 @@ These activities are collectively referred to as waste (muda).
 
 However, some activities may be “necessary non-value-added”—for example, safety inspections, machine setup, or regulatory testing. These steps don’t create value for the customer but are essential to ensure quality, safety, or compliance.
 
-*7.3 The 7 (or 8) Types of Waste*
+**7.3 The 7 (or 8) Types of Waste**
 
 Lean identifies seven major categories of waste, with an eighth sometimes added to emphasize the importance of human creativity.
 
-*Type of Waste	Description	Example*
+*Type of Waste*
 
 Overproduction	Making more than is needed before it’s needed	Producing excess inventory that ties up capital
 Defects	Errors that require rework or cause scrap	Misaligned parts, incorrect labeling
@@ -723,7 +723,7 @@ Underutilization of People’s Ideas (8th Waste)	Failing to use employees’ ski
 
 By identifying and minimizing these wastes, Lean enhances both efficiency and sustainability, aligning well with the goals of a circular bioeconomy.
 
-*7.4 Lean Thinking as a System*
+**7.4 Lean Thinking as a System**
 
 Lean is not just a set of tools—it’s a systemic approach that connects people, processes, and purpose through continuous feedback and learning.
 
@@ -741,7 +741,7 @@ Like systems thinking, Lean emphasizes feedback loops and learning:
 
 Lean and Systems Thinking both view organizations as living systems—adaptive, interconnected, and capable of evolution when guided by shared purpose.
 
-*7.5 Historical Context of Lean Manufacturing*
+**7.5 Historical Context of Lean Manufacturing**
 
 Early Foundations
 
@@ -755,7 +755,7 @@ The origins of Lean trace back to post–World War II Japan, particularly at Toy
 
 These works form the intellectual backbone of Lean, influencing industries worldwide.
 
-*From Manufacturing to Enterprise*
+**From Manufacturing to Enterprise**
 
 By the 1980s–2000s, Lean expanded beyond factories into:
 
@@ -765,7 +765,7 @@ By the 1980s–2000s, Lean expanded beyond factories into:
 
 •	Sustainability: Integrating Lean with green and circular principles to reduce material, energy, and waste footprints.
 
-*Reflection Questions*
+**Reflection Questions**
 
 1. How does Lean’s definition of value differ from a conventional business definition of profit?
 
@@ -782,11 +782,11 @@ By the 1980s–2000s, Lean expanded beyond factories into:
 Short Video: “What is Lean Manufacturing?”
 https://youtu.be/TIiUUhL5x_o?si=UJH6RGve21V6rQN5 
 
-#Chapter 8: Designing Systems for Empathy and Impact#
+# Chapter 8: Designing Systems for Empathy and Impact
 
 This chapter explores how we can design systems — social, organizational, technological — that centre human experience, foster empathy, and enable meaningful change. We’ll draw from systems thinking frameworks and the life and work of Nikki Giovanni to help ground abstract concepts in lived practice.
 
-*Learning Objectives*
+**Learning Objectives**
 
 By the end of this chapter, students will be able to:
 
@@ -800,7 +800,7 @@ By the end of this chapter, students will be able to:
 
 •	Reflect on their role as system-designers (students, ambassadors, facilitators) and consider how their actions can amplify or inhibit systemic empathy and impact.
 
-*Key Questions*
+**Key Questions**
 
 1. What does “empathy” look like when we design a system — its purpose, its flows, its actors?
 
@@ -812,7 +812,7 @@ By the end of this chapter, students will be able to:
 
 5. How can you, as a participant or designer of a social system, intervene in ways that increase empathy and meaningful outcomes rather than unintended consequences?
 
-*8.1 What Does It Mean to Design for Empathy and Impact?*
+**8.1 What Does It Mean to Design for Empathy and Impact?**
 
 Designing for empathy means structuring systems so that they acknowledge, incorporate, and respond to human experiences, emotions, relationships, and the often-unseen dynamics of identity, voice, and value. It means placing people at the centre of system purpose, interconnections, and change processes.
 
@@ -828,7 +828,7 @@ In systems thinking terms:
 
 By focusing on empathy and impact, we open the system to emergent opportunities (e.g., student advocacy, peer leadership) and also to risks (e.g., reinforcing inequities, creating tokenism) that technical or purely operational approaches might overlook.
 
-*8.2  Social Systems, Human Experience & Feedback Loops*
+**8.2  Social Systems, Human Experience & Feedback Loops**
 
 Social systems differ from purely mechanical ones in that they include:
 
@@ -840,7 +840,7 @@ Social systems differ from purely mechanical ones in that they include:
 
 •	Interdependencies and context sensitivity: Culture, history, power, identity influence outcomes.
 
-*Key systems thinking principles apply:*
+**Key systems thinking principles apply:**
 
 •	Feedback loops: For example, a mentoring program may begin with “if mentees feel supported, they engage more → improved retention → more ambassadors volunteer → wider network” (a reinforcing loop). But without careful design, there may also be balancing loops like “ambassadors become overloaded → less effective support → mentee disengagement → fewer ambassadors volunteer”.
 
@@ -852,7 +852,7 @@ Social systems differ from purely mechanical ones in that they include:
 
 •	Designing systems for empathy means paying attention to informal flows (who talks to whom, who feels seen, who is excluded), to culture and voice, to role-design, to feedback from participants, and to adaptability over time.
 
-*8. 3 A Lens from Nikki Giovanni: Voice, Empowerment & Systemic Change*
+**8.3 A Lens from Nikki Giovanni: Voice, Empowerment & Systemic Change**
 
 Nikki Giovanni’s life and work offer rich inspiration for designing systems that value empathy, impact, voice, and change. Here are some design-inspired take-aways: 
 
@@ -870,7 +870,7 @@ Nikki Giovanni’s life and work offer rich inspiration for designing systems th
 
 By studying Giovanni, we can ask: How does a system create space for voice? How do we honour culture, identity, context? How might the system reinforce or transform power relations? How do we design for long-term change, not just short-term outputs?
 
-*8.4  Practical Mapping Activity: Your Social System*
+**8.4  Practical Mapping Activity: Your Social System**
 
 Follow these steps to map a social/human system you’re involved with (e.g., a student-ambassador program, recruitment pipeline, club mentoring network) and identify opportunities to design for empathy and impact.
 
@@ -908,7 +908,7 @@ Step 4: Reflect
 
 •	How will you ensure the system remains responsive, adaptive, inclusive?
 
-5. Case Study Snippet: Giovanni & Campus Culture
+**5. Case Study Snippet: Giovanni & Campus Culture**
 
 Consider this example: At Virginia Tech, Nikki Giovanni served as a professor and literary leader for decades. Imagine designing a campus-system around student identity and belonging drawing on her legacy:
 
@@ -928,7 +928,7 @@ Consider this example: At Virginia Tech, Nikki Giovanni served as a professor an
 
 By viewing the system through the lens of Giovanni’s values (voice, equity, creativity, culture) we design more than an “event” — we design a networked, adaptive system for empathy and impact.
 
-*Reflection Questions*
+**Reflection Questions**
 
 1. How would you define the “purpose” of a social system you are involved in? Does it centre human experience or primarily operational efficiency?
 
