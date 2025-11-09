@@ -743,7 +743,7 @@ Lean and Systems Thinking both view organizations as living systems—adaptive, 
 
 **7.5 Historical Context of Lean Manufacturing**
 
-Early Foundations
+*Early Foundations*
 
 The origins of Lean trace back to post–World War II Japan, particularly at Toyota, where Taiichi Ohno and Shigeo Shingo developed the Toyota Production System (TPS). Their focus was on minimizing waste and maximizing efficiency with limited resources.
 
@@ -755,7 +755,7 @@ The origins of Lean trace back to post–World War II Japan, particularly at Toy
 
 These works form the intellectual backbone of Lean, influencing industries worldwide.
 
-**From Manufacturing to Enterprise**
+*From Manufacturing to Enterprise*
 
 By the 1980s–2000s, Lean expanded beyond factories into:
 
@@ -908,7 +908,7 @@ Step 4: Reflect
 
 •	How will you ensure the system remains responsive, adaptive, inclusive?
 
-**5. Case Study Snippet: Giovanni & Campus Culture**
+**8.5 Case Study Snippet: Giovanni & Campus Culture**
 
 Consider this example: At Virginia Tech, Nikki Giovanni served as a professor and literary leader for decades. Imagine designing a campus-system around student identity and belonging drawing on her legacy:
 
