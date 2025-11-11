@@ -784,47 +784,47 @@ https://youtu.be/TIiUUhL5x_o?si=UJH6RGve21V6rQN5
 
 # Chapter 8: Designing Systems for Empathy and Impact
 
-This chapter explores how we can design systems — social, organizational, technological — that centre human experience, foster empathy, and enable meaningful change. We’ll draw from systems thinking frameworks and the life and work of Nikki Giovanni to help ground abstract concepts in lived practice.
+This chapter explores how we can design systems — social, organizational, technological — that center human experience, foster empathy, and enable meaningful change. We’ll draw from systems thinking frameworks and the life and work of Nikki Giovanni to help ground abstract concepts in lived practice.
 
 **Learning Objectives**
 
 By the end of this chapter, students will be able to:
 
-•	Describe what “designing for empathy” means in the context of systems thinking.
+• Describe what “designing for empathy” means in the context of systems thinking.
 
-•	Identify how social systems (human-systems) differ from purely technical or physical systems, and how impact is defined and measured in those systems.
+• Identify how social systems (human-systems) differ from purely technical or physical systems, and how impact is defined and measured in those systems.
 
-•	Use examples from Nikki Giovanni’s work and contributions as a lens for understanding how creative, cultural, and human-centric thinking shapes systems for social change.
+• Use examples from Nikki Giovanni’s work and contributions as a lens for understanding how creative, cultural, and human-centric thinking shapes systems for social change.
 
-•	Map a simple human-system (e.g., a mentoring program, a campus ambassador network, or a student-recruitment pipeline) and identify opportunities to embed empathy and impact in its design.
+• Map a simple human-system (e.g., a mentoring program, a campus ambassador network, or a student-recruitment pipeline) and identify opportunities to embed empathy and impact in its design.
 
-•	Reflect on their role as system-designers (students, ambassadors, facilitators) and consider how their actions can amplify or inhibit systemic empathy and impact.
+• Reflect on their role as system-designers (students, ambassadors, facilitators) and consider how their actions can amplify or inhibit systemic empathy and impact.
 
 **Key Questions**
 
-1. What does “empathy” look like when we design a system — its purpose, its flows, its actors?
+1.	What does “empathy” look like when we design a system — its purpose, its flows, its actors?
 
-2. How do we define “impact” in a social system, and how does that differ from output or efficiency?
+2.	How do we define “impact” in a social system, and how does that differ from output or efficiency?
 
-3. How can the work of Nikki Giovanni inform a systems-design perspective rooted in equity, voice, and creativity?
+3.	How can the work of Nikki Giovanni inform a systems-design perspective rooted in equity, voice, and creativity?
 
-4. What are the interconnections, feedback loops, and emergent behaviours in a human-system aimed at empathy and impact?
+4.	What are the interconnections, feedback loops, and emergent behaviors in a human-system aimed at empathy and impact?
 
-5. How can you, as a participant or designer of a social system, intervene in ways that increase empathy and meaningful outcomes rather than unintended consequences?
+5.	How can you, as a participant or designer of a social system, intervene in ways that increase empathy and meaningful outcomes rather than unintended consequences?
 
 **8.1 What Does It Mean to Design for Empathy and Impact?**
 
-Designing for empathy means structuring systems so that they acknowledge, incorporate, and respond to human experiences, emotions, relationships, and the often-unseen dynamics of identity, voice, and value. It means placing people at the centre of system purpose, interconnections, and change processes.
+Designing for empathy means structuring systems so that they acknowledge, incorporate, and respond to human experiences, emotions, relationships, and the often-unseen dynamics of identity, voice, and value. It means placing people at the center of system purpose, interconnections, and change processes.
 
 Meanwhile, designing for impact means moving beyond efficiency or output to ask: What meaningful change is this system producing? Who benefits? Who might be excluded? How sustainable is this change? In social systems, impact often involves shifts in power, access, identity, and belonging — not just in throughput or cost savings.
 
 In systems thinking terms:
 
-•	Elements: human actors (students, ambassadors, staff), resources (time, budget, tools), relationships (mentoring ties, peer networks), contexts (campus culture, institutional constraints).
+• Elements: human actors (students, ambassadors, staff), resources (time, budget, tools), relationships (mentoring ties, peer networks), contexts (campus culture, institutional constraints).
 
-•	Interconnections: flows of information, feedback between participants and facilitators, formal and informal communication channels, incentives and barriers.
+• Interconnections: flows of information, feedback between participants and facilitators, formal and informal communication channels, incentives and barriers.
 
-•	Purpose: for a human-system designed with empathy and impact, the purpose might be “to empower first-generation students to build identity + community + career agency” (rather than “to enroll X students and retain Y%”).
+• Purpose: for a human-system designed with empathy and impact, the purpose might be “to empower first-generation students to build identity + community + career agency” (rather than “to enroll X students and retain Y%”).
 
 By focusing on empathy and impact, we open the system to emergent opportunities (e.g., student advocacy, peer leadership) and also to risks (e.g., reinforcing inequities, creating tokenism) that technical or purely operational approaches might overlook.
 
@@ -832,43 +832,43 @@ By focusing on empathy and impact, we open the system to emergent opportunities 
 
 Social systems differ from purely mechanical ones in that they include:
 
-•	Human agency and reflexivity: Participants reflect on their experience and can change behaviour.
+• Human agency and reflexivity: Participants reflect on their experience and can change behavior.
 
-•	Multiple overlapping purposes: Participants may have personal goals, institutional goals, social goals — sometimes aligned, often in tension.
+• Multiple overlapping purposes: Participants may have personal goals, institutional goals, social goals — sometimes aligned, often in tension.
 
-•	Emotional and identity dynamics: Trust, voice, belonging, culture matter.
+• Emotional and identity dynamics: Trust, voice, belonging, culture matter.
 
-•	Interdependencies and context sensitivity: Culture, history, power, identity influence outcomes.
+• Interdependencies and context sensitivity: Culture, history, power, identity influence outcomes.
 
 **Key systems thinking principles apply:**
 
-•	Feedback loops: For example, a mentoring program may begin with “if mentees feel supported, they engage more → improved retention → more ambassadors volunteer → wider network” (a reinforcing loop). But without careful design, there may also be balancing loops like “ambassadors become overloaded → less effective support → mentee disengagement → fewer ambassadors volunteer”.
+• Feedback loops: For example, a mentoring program may begin with “if mentees feel supported, they engage more → improved retention → more ambassadors volunteer → wider network” (a reinforcing loop). But without careful design, there may also be balancing loops like “ambassadors become overloaded → less effective support → mentee disengagement → fewer ambassadors volunteer”.
 
-•	Non-linearity and emergence: A small design choice (like inviting mentees to co-facilitate a session) might trigger unexpected leadership growth and peer networks — or it might spark conflict if roles aren’t clear.
+• Non-linearity and emergence: A small design choice (like inviting mentees to co-facilitate a session) might trigger unexpected leadership growth and peer networks — or it might spark conflict if roles aren’t clear.
 
-•	Holistic thinking: You can’t just fix one piece (e.g., increase ambassador training) without looking at institutional culture, incentives, power dynamics, historical context.
+• Holistic thinking: You can’t just fix one piece (e.g., increase ambassador training) without looking at institutional culture, incentives, power dynamics, historical context.
 
-•	Interconnectedness: The student-recruitment pipeline links to orientation, mentoring, retention, campus culture, alumni networks—and those link to identity formation, sense of belonging, career progression.
+• Interconnectedness: The student-recruitment pipeline links to orientation, mentoring, retention, campus culture, alumni networks—and those link to identity formation, sense of belonging, career progression.
 
-•	Designing systems for empathy means paying attention to informal flows (who talks to whom, who feels seen, who is excluded), to culture and voice, to role-design, to feedback from participants, and to adaptability over time.
+• Designing systems for empathy means paying attention to informal flows (who talks to whom, who feels seen, who is excluded), to culture and voice, to role-design, to feedback from participants, and to adaptability over time.
 
 **8.3 A Lens from Nikki Giovanni: Voice, Empowerment & Systemic Change**
 
-Nikki Giovanni’s life and work offer rich inspiration for designing systems that value empathy, impact, voice, and change. Here are some design-inspired take-aways: 
+Nikki Giovanni’s life and work offer rich inspiration for designing systems that value empathy, impact, voice, and change. Here are some design-inspired take-aways:
 
-•	Voice matters: Giovanni’s poetry emphasised Black life, love, identity, and resistance. She insisted on being heard — on her own terms. 
+• Voice matters: Giovanni’s poetry emphasized Black life, love, identity, and resistance. She insisted on being heard — on her own terms.
 
-•	In system-design, this reminds us to design for voice — give participants agency to shape the system, not just be passive recipients.
+• In system-design, this reminds us to design for voice — give participants agency to shape the system, not just be passive recipients.
 
-•	Purpose with courage: Her work emerged from social context (the Black Arts Movement), from activism, and from a conviction that art could change society. In our systems, the purpose can’t just be “throughput” or “compliance” — it has to connect to meaning.
+• Purpose with courage: Her work emerged from social context (the Black Arts Movement), from activism, and from a conviction that art could change society. In our systems, the purpose can’t just be “throughput” or “compliance” — it has to connect to meaning.
 
-•	Interconnection of personal and structural: Giovanni’s writing mingled personal history (family, place, identity) and structural questions (race, power, culture). Systems designed for empathy must link individual experience and structural dynamics.
+• Interconnection of personal and structural: Giovanni’s writing mingled personal history (family, place, identity) and structural questions (race, power, culture). Systems designed for empathy must link individual experience and structural dynamics.
 
-•	Emergence over top-down only: Giovanni’s creative output was not fully controllable; it was emergent, conversational, responsive. Systems that allow emergent leadership, peer-led innovation, adaptive change tend to be more resilient.
+• Emergence over top-down only: Giovanni’s creative output was not fully controllable; it was emergent, conversational, responsive. Systems that allow emergent leadership, peer-led innovation, adaptive change tend to be more resilient.
 
-•	Sustainability of change: Giovanni taught, mentored, published, opened pathways for others. Impact wasn’t one-off. In design terms: build for sustainability, build in feedback from users, build whole networks.
+• Sustainability of change: Giovanni taught, mentored, published, opened pathways for others. Impact wasn’t one-off. In design terms: build for sustainability, build in feedback from users, build whole networks.
 
-By studying Giovanni, we can ask: How does a system create space for voice? How do we honour culture, identity, context? How might the system reinforce or transform power relations? How do we design for long-term change, not just short-term outputs?
+By studying Giovanni, we can ask: How does a system create space for voice? How do we honor culture, identity, context? How might the system reinforce or transform power relations? How do we design for long-term change, not just short-term outputs?
 
 **8.4  Practical Mapping Activity: Your Social System**
 
@@ -876,66 +876,66 @@ Follow these steps to map a social/human system you’re involved with (e.g., a 
 
 Step 1: Define the system
 
-•	What is the purpose of this system as currently articulated?
+• What is the purpose of this system as currently articulated?
 
-•	Who are the key elements? (Actors, resources, tools, culture)
+• Who are the key elements? (Actors, resources, tools, culture)
 
-•	What are the main interconnections? (Flows of information, resources, power, relationships)
+• What are the main interconnections? (Flows of information, resources, power, relationships)
 
 Step 2: Identify empathy and impact levers
 
-•	Where in the system do participants feel seen, heard, valued? Where might they feel invisible or marginalised?
+• Where in the system do participants feel seen, heard, valued? Where might they feel invisible or marginalized?
 
-•	What feedback loops currently exist that support positive outcomes? Which ones undermine them?
+• What feedback loops currently exist that support positive outcomes? Which ones undermine them?
 
-•	Are there emergent behaviours or unintended consequences?
+• Are there emergent behaviors or unintended consequences?
 
-•	How does the system align with—and/or challenge—culture, identity, power?
+• How does the system align with—and/or challenge—culture, identity, power?
 
 Step 3: Propose design interventions
 
-•	What would you redesign to increase empathy (voice, belonging, participation)?
+• What would you redesign to increase empathy (voice, belonging, participation)?
 
-•	What changes would strengthen impact (meaningful outcomes, sustainability, equity)?
+• What changes would strengthen impact (meaningful outcomes, sustainability, equity)?
 
-•	What indicators would you use to measure success (beyond numbers—e.g., sense of belonging, agency, network strength)?
+• What indicators would you use to measure success (beyond numbers—e.g., sense of belonging, agency, network strength)?
 
 Step 4: Reflect
 
-•	What challenges might you face (resistance, resources, culture)?
+• What challenges might you face (resistance, resources, culture)?
 
-•	How will you build feedback loops to iterate the system?
+• How will you build feedback loops to iterate the system?
 
-•	How will you ensure the system remains responsive, adaptive, inclusive?
+• How will you ensure the system remains responsive, adaptive, inclusive?
 
 **8.5 Case Study Snippet: Giovanni & Campus Culture**
 
 Consider this example: At Virginia Tech, Nikki Giovanni served as a professor and literary leader for decades. Imagine designing a campus-system around student identity and belonging drawing on her legacy:
 
-•	Purpose: “Create a campus culture where historically under-represented students feel agency, dignity, and voice.”
+• Purpose: “Create a campus culture where historically under-represented students feel agency, dignity, and voice.”
 
-•	Elements: Legacy of Giovanni’s teaching, student ambassadors, peer-mentors, cultural events, writing workshops, identity-spaces, administrative partners.
+• Elements: Legacy of Giovanni’s teaching, student ambassadors, peer-mentors, cultural events, writing workshops, identity-spaces, administrative partners.
 
-•	Interconnections: Writing workshops connect students across disciplines; peer-mentors provide feedback that loops to program design; student writing is showcased in public venues, reinforcing identity and culture.
+• Interconnections: Writing workshops connect students across disciplines; peer-mentors provide feedback that loops to program design; student writing is showcased in public venues, reinforcing identity and culture.
 
-•	Design for empathy: Student voices shape the writing workshops; faculty co-design events with students; there is a feedback loop where student experiences shape policy.
+• Design for empathy: Student voices shape the writing workshops; faculty co-design events with students; there is a feedback loop where student experiences shape policy.
 
-•	Design for impact: Outcomes measured not only in retention or grades, but in expressed sense of belonging, student-led publications or initiatives, cross-cultural collaborations.
+• Design for impact: Outcomes measured not only in retention or grades, but in expressed sense of belonging, student-led publications or initiatives, cross-cultural collaborations.
 
-•	Emergent behaviour: Student-led literary journal grows, mentors become identity ambassadors, community partnerships extend into local culture.
+• Emergent behavior: Student-led literary journal grows, mentors become identity ambassadors, community partnerships extend into local culture.
 
-•	Potential pitfalls: Risk that the system becomes a token event rather than structural change; overload of peer-mentors; lack of institutional support for sustaining culture shifts.
+• Potential pitfalls: Risk that the system becomes a token event rather than structural change; overload of peer-mentors; lack of institutional support for sustaining culture shifts.
 
 By viewing the system through the lens of Giovanni’s values (voice, equity, creativity, culture) we design more than an “event” — we design a networked, adaptive system for empathy and impact.
 
 **Reflection Questions**
 
-1. How would you define the “purpose” of a social system you are involved in? Does it centre human experience or primarily operational efficiency?
+1.	How would you define the “purpose” of a social system you are involved in? Does it center human experience or primarily operational efficiency?
 
-2. Where is the voice of participants currently missing or weak in your system? How could you redesign to strengthen it?
+2.	Where is the voice of participants currently missing or weak in your system? How could you redesign it to strengthen it?
 
-3. Think of a time when a small change in your system led to a big (unexpected) impact. What feedback loops were at work?
+3.	Think of a time when a small change in your system led to a big (unexpected) impact. What feedback loops were at work?
 
-4. How might the work of Nikki Giovanni inspire your thinking about power, voice, and identity within your system?
+4.	How might the work of Nikki Giovanni inspire your thinking about power, voice, and identity within your system?
 
-5. What three indicators — one quantitative, two qualitative — would you use to measure “empathy” and “impact” in your social system?
+5.	What three indicators — one quantitative, two qualitative — would you use to measure “empathy” and “impact” in your social system?
