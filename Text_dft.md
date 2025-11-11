@@ -684,13 +684,13 @@ Value (Definition)
 
 In Lean, value is anything that increases the market form or function of a product or service in such a way that a customer is willing to pay for it.
 
-This customer-centric view forces organizations to look critically at their processes:
+Non-Value-Added (Definition)
 
-1. Does this step transform the product or service?
+Non-value-added activities are actions that do not change the product in a way the customer values or that are not necessary for the process to function safely or compliantly.
 
-2. Would the customer recognize and pay for this step?
+These activities are collectively referred to as waste (muda).
 
-3. If not, why are we doing it?
+However, some activities may be “necessary non-value-added”—for example, safety inspections, machine setup, or regulatory testing. These steps don’t create value for the customer but are essential to ensure quality, safety, or compliance.
 
 **Example:**
 
@@ -698,13 +698,13 @@ This customer-centric view forces organizations to look critically at their proc
 
 *Non-value-added: Reworking or moving the same product multiple times between workstations.*
 
-*Non-Value-Added (Definition)*
+This customer-centric view forces organizations to look critically at their processes:
 
-Non-value-added activities are actions that do not change the product in a way the customer values or that are not necessary for the process to function safely or compliantly.
+1. Does this step transform the product or service?
 
-These activities are collectively referred to as waste (muda).
+2. Would the customer recognize and pay for this step?
 
-However, some activities may be “necessary non-value-added”—for example, safety inspections, machine setup, or regulatory testing. These steps don’t create value for the customer but are essential to ensure quality, safety, or compliance.
+3. If not, why are we doing it?
 
 **7.3 The 7 (or 8) Types of Waste**
 
@@ -718,7 +718,7 @@ Unnecessary Inventory	Excess materials or products waiting to be used or sold	Ov
 Inappropriate Processing	Using more expensive or complex resources than necessary	Over-engineering a product
 Excessive Transportation	Moving products or materials unnecessarily	Shuttling materials between distant work areas
 Waiting	Idle time when people or machines are not productive	Delays from bottlenecks or downtime
-Unnecessary Motion	Extra movement of people or equipment	Searching for tools, reaching awkwardly
+Unnecessary Motion Extra movement of people or equipment	Searching for tools, reaching awkwardly
 Underutilization of People’s Ideas (8th Waste)	Failing to use employees’ skills, creativity, and insights	Not involving workers in process improvements
 
 By identifying and minimizing these wastes, Lean enhances both efficiency and sustainability, aligning well with the goals of a circular bioeconomy.
