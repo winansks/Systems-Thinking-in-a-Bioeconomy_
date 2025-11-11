@@ -798,7 +798,7 @@ By the end of this chapter, students will be able to:
 
 • Map a simple human-system (e.g., a mentoring program, a campus ambassador network, or a student-recruitment pipeline) and identify opportunities to embed empathy and impact in its design.
 
-• Reflect on their role as system-designers (students, ambassadors, facilitators) and consider how their actions can amplify or inhibit systemic empathy and impact.
+• Reflect on our role as for example a system-designers (students, ambassadors, facilitators) and consider how our actions can amplify or inhibit systemic empathy and impact.
 
 **Key Questions**
 
