@@ -940,15 +940,15 @@ By viewing the system through the lens of Giovanni’s values (voice, equity, cr
 
 5.	What three indicators — one quantitative, two qualitative — would you use to measure “empathy” and “impact” in your social system?
 
-#Chapter 9: Materials Production and Consumption
+# Chapter 9: Materials Production and Consumption
 
-*Introduction
+**Introduction**
 
 This chapter emphasizes how bio-based material systems differ from fossil-based ones, how circularity and regenerative principles operate, and how material choices influence environmental, economic, and social outcomes.
 
 This chapter makes connections between these material systems and the systems thinking foundations introduced in Chapter 1—particularly feedback loops, non-linearities, and the interactions among natural, technological, and social systems.
 
-*Learning Objectives
+**Learning Objectives**
 
 • Describe the main sources of biological materials used in production (forests, agriculture, algae, waste streams).
 
@@ -958,18 +958,18 @@ This chapter makes connections between these material systems and the systems th
 
 • Propose strategies for circular, regenerative, and sustainable material use in a bioeconomy.
 
-*Key Questions
+**Key Questions**
 
 1. What makes a material “bio-based,” and why does this matter for sustainability?
 2. How are biological resources such as wood, crops, and waste streams transformed into materials?
 3. What are the environmental and social trade-offs associated with producing and consuming bio-based materials?
 4. How can circular design and regenerative systems improve the sustainability performance of bio-based materials?
 
-*What Are Bio-Based Materials? Foundations of Production and Consumption
+**What Are Bio-Based Materials? Foundations of Production and Consumption**
 
 A bio-based material is any material derived from biological resources—plants, algae, fungi, microorganisms, or organic waste streams. Unlike fossil-based materials (e.g., plastics made from petroleum), bio-based materials originate in living systems and can often be renewed within human timeframes.
 
-*9.1 Elements of a Bio-Based Material System
+**Elements of a Bio-Based Material System**
 
 Elements – biomass resources (e.g., forests, crops, residues), technologies (bioreactors, pulping systems, fermenters), workers, market actors, policies.
 
@@ -979,7 +979,7 @@ Purpose – delivering materials and products while reducing carbon emissions, s
 
 The system's behavior determine whether a bioeconomy is sustainable, circular, regenerative, or simply a “greenwashed” version of a fossil economy.
 
-*9.2 Sources of Biomass for Material Production
+**9.1 Sources of Biomass for Material Production**
 
 Bio-based materials can originate from a wide variety of biological feedstocks. Major categories include:
 
@@ -1021,7 +1021,7 @@ These can be processed into packaging, bioplastics, textiles, biocomposites, and
 
 These pathways often have high scalability and low land-use impact.
 
-*Material Consumption: Use, Value, and End-of-Life
+**9.2 Material Consumption: Use, Value, and End-of-Life**
 
 Consumption of bio-based materials involves how society uses, maintains, reuses, and disposes of material products.
 
@@ -1035,7 +1035,7 @@ Finally, biomanufacturing and synthetic biology use engineered organisms to prod
 
 Across all four pathways, sustainability outcomes vary widely. Energy demands, water use, land requirements, chemical inputs, greenhouse gas emissions, and supply chain complexity must be considered when evaluating the true environmental performance of bio-based materials. No process is inherently sustainable—results depend on the design and management of the full system.
 
-9.3 Material Consumption: Use, Usefulness, and End-of-Life
+**9.3 Material Consumption: Use, Usefulness, and End-of-Life**
 
 Material consumption refers to how bio-based materials are used, valued, and ultimately managed at the end of their life. Bio-based materials appear in a wide range of sectors, including packaging, buildings, textiles, medical products, fuels, and chemicals. Consumer perception plays a powerful role in shaping demand; labels such as “bio-based,” “compostable,” or “eco-friendly” can strongly influence purchasing decisions, even when the full environmental benefits or limitations are not well understood.
 
@@ -1043,7 +1043,7 @@ The usefulness and performance of bio-based materials vary by application. Many 
 
 End-of-life pathways determine much of a material’s sustainability performance. In a circular bioeconomy, materials should be designed for high-value recovery through fiber recycling, biopolymer reprocessing, composting, biodegradation, anaerobic digestion, or industrial symbiosis—where the byproduct of one industry becomes the input for another. These strategies contrast with the traditional linear model of extraction → production → disposal, where materials often accumulate in landfills or the natural environment.
 
-9.4 Feedback Loops in Bio-Based Material Systems
+**9.4 Feedback Loops in Bio-Based Material Systems**
 
 Bio-based material systems are influenced by a complex set of reinforcing and balancing feedback loops. Reinforcing loops amplify change. For example, growing demand for bio-based products can attract investment, which drives technological improvements and reduces production costs—further increasing demand. These loops can rapidly accelerate the adoption of sustainable materials if economic and policy conditions support growth.
 
@@ -1051,13 +1051,13 @@ Balancing loops counteract change and help stabilize the system. Land availabili
 
 Bio-based materials also participate in cross-system feedbacks. Soil health affects crop yields, which influence market prices and incentives for land use. Forest management practices affect carbon storage, which shapes climate policies and market demand for wood products. Consumer awareness drives purchasing patterns, which in turn shape corporate investment and research priorities. These interconnected loops reveal how changes in one part of the system can trigger unexpected shifts elsewhere, illustrating the non-linear behavior of socio-ecological systems.
 
-9.5 Sustainability and LCA: Comparing Bio-Based and Fossil-Based Material Systems
+**9.5 Sustainability and LCA: Comparing Bio-Based and Fossil-Based Material Systems**
 
 Life-cycle assessment (LCA) provides a structured framework for evaluating the environmental and social impacts of material systems from resource extraction through production, use, and end-of-life. This includes assessing carbon emissions, water consumption, energy use, land and biodiversity impacts, chemical releases, and human health outcomes. LCA helps reveal trade-offs that may not be apparent when focusing only on the origin of the material.
 
 Although many bio-based materials offer substantially lower greenhouse gas emissions than fossil-based plastics, their sustainability is not guaranteed. Outcomes depend on how biomass is grown, harvested, and processed; what energy sources power the supply chain; how materials are used; and what happens to them after disposal. Social considerations, such as labor conditions, land rights, and equity implications, are equally important. A bioeconomy becomes sustainable only when its systems are intentionally designed to support ecological regeneration, community well-being, and long-term resilience.
 
-9.6 Circularity and Regeneration in Material Systems
+**9.6 Circularity and Regeneration in Material Systems**
 
 A circular bioeconomy aims to mimic natural cycles by reducing reliance on virgin resources, extending product lifetimes, regenerating ecosystems, and recovering materials at the end of their useful life. This includes strategies to reduce raw material extraction, reuse products and components, recycle fibers or polymers into new materials, and regenerate natural systems such as soils, forests, and carbon stocks.
 
@@ -1065,7 +1065,7 @@ Practical examples illustrate the range of circular and regenerative opportuniti
 
 Together, these strategies aim to create closed-loop systems in which materials continually flow through economic and ecological cycles with minimal waste or environmental harm. Circularity is therefore not only a waste-management strategy but also a foundational principle of a regenerative bioeconomy.
 
-*Refelection Questions
+**Refelection Questions**
 
 1. How do material choices (wood, bioplastics, fibers) influence sustainability outcomes across the lifecycle?
 
