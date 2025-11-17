@@ -874,7 +874,7 @@ By studying Giovanni, we can ask: How does a system create space for voice? How 
 
 Follow these steps to map a social/human system you’re involved with (e.g., a student-ambassador program, recruitment pipeline, club mentoring network) and identify opportunities to design for empathy and impact.
 
-Step 1: Define the system
+*Step 1: Define the system*
 
 • What is the purpose of this system as currently articulated?
 
@@ -882,7 +882,7 @@ Step 1: Define the system
 
 • What are the main interconnections? (Flows of information, resources, power, relationships)
 
-Step 2: Identify empathy and impact levers
+*Step 2: Identify empathy and impact levers*
 
 • Where in the system do participants feel seen, heard, valued? Where might they feel invisible or marginalized?
 
@@ -892,7 +892,7 @@ Step 2: Identify empathy and impact levers
 
 • How does the system align with—and/or challenge—culture, identity, power?
 
-Step 3: Propose design interventions
+*Step 3: Propose design interventions*
 
 • What would you redesign to increase empathy (voice, belonging, participation)?
 
@@ -900,7 +900,7 @@ Step 3: Propose design interventions
 
 • What indicators would you use to measure success (beyond numbers—e.g., sense of belonging, agency, network strength)?
 
-Step 4: Reflect
+*Step 4: Reflect*
 
 • What challenges might you face (resistance, resources, culture)?
 
@@ -971,11 +971,11 @@ A bio-based material is any material derived from biological resources—plants,
 
 **Elements of a Bio-Based Material System**
 
-Elements – biomass resources (e.g., forests, crops, residues), technologies (bioreactors, pulping systems, fermenters), workers, market actors, policies.
+*Elements* – biomass resources (e.g., forests, crops, residues), technologies (bioreactors, pulping systems, fermenters), workers, market actors, policies.
 
-Interconnections – flows of biomass, energy, nutrients, carbon, capital, and information across supply chains.
+*Interconnections* – flows of biomass, energy, nutrients, carbon, capital, and information across supply chains.
 
-Purpose – delivering materials and products while reducing carbon emissions, supporting rural economies, regenerating ecosystems, and minimizing waste.
+*Purpose* – delivering materials and products while reducing carbon emissions, supporting rural economies, regenerating ecosystems, and minimizing waste.
 
 The system's behavior determine whether a bioeconomy is sustainable, circular, regenerative, or simply a “greenwashed” version of a fossil economy.
 
@@ -983,7 +983,7 @@ The system's behavior determine whether a bioeconomy is sustainable, circular, r
 
 Bio-based materials can originate from a wide variety of biological feedstocks. Major categories include:
 
-1. Forest-Based Biomass
+*1. Forest-Based Biomass*
 
 • Timber, lumber, mass timber (e.g., CLT)
 
@@ -991,7 +991,7 @@ Bio-based materials can originate from a wide variety of biological feedstocks. 
 
 • Lignin for adhesives or carbon fibers
 
-2. Agricultural Biomass
+*2. Agricultural Biomass*
 
 • Crops (corn, sugarcane, hemp, flax)
 
@@ -1001,7 +1001,7 @@ Bio-based materials can originate from a wide variety of biological feedstocks. 
 
 These can be processed into packaging, bioplastics, textiles, biocomposites, and chemicals.
 
-3. Waste and Residual Biomass
+*3. Waste and Residual Biomass*
 
 • Food waste
 
@@ -1013,7 +1013,7 @@ These can be processed into packaging, bioplastics, textiles, biocomposites, and
 
 • Using waste streams reduces landfill burdens and improves circularity.
 
-4. Microbial and Algal Biomass
+*4. Microbial and Algal Biomass*
 
 • Algae-based polymers and pigments
 
