@@ -1041,7 +1041,7 @@ Material consumption refers to how bio-based materials are used, valued, and ult
 
 The usefulness and performance of bio-based materials vary by application. Many offer important advantages: lower embodied carbon, reduced toxicity, improved biodegradability, or enhanced functionality such as antimicrobial properties. However, trade-offs remain. Some bio-based materials have shorter lifespans, reduced mechanical strength, or higher costs compared to their fossil-derived counterparts. Additionally, biomass production may compete with food systems, and appropriate recycling or composting infrastructure is often limited.
 
-End-of-life pathways determine much of a material’s sustainability performance. In a circular bioeconomy, materials should be designed for high-value recovery through fiber recycling, biopolymer reprocessing, composting, biodegradation, anaerobic digestion, or industrial symbiosis—where the byproduct of one industry becomes the input for another. These strategies contrast with the traditional linear model of extraction → production → disposal, where materials often accumulate in landfills or the natural environment.
+End-of-life pathways determine much of a material’s sustainability performance. In a circular bioeconomy, materials should be designed for high-value recovery through fiber recycling, biopolymer reprocessing, composting, biodegradation, anaerobic digestion, or industrial symbiosis—where the byproduct of one industry becomes the input for another. These strategies contrast with the traditional linear model of extraction,  production, and disposal, where materials often accumulate in landfills or the natural environment.
 
 **9.4 Feedback Loops in Bio-Based Material Systems**
 
